@@ -1,0 +1,28 @@
+Component Name : AD822
+
+Part Count : 4
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *A
+     Pins - (Normal) : 3
+          +              2              Passive
+          -              3              Passive
+          OUT            1              Passive
+          Hidden Pins : 
+
+Part : *B
+     Pins - (Normal) : 3
+          +              5              Passive
+          -              6              Passive
+          OUT2           7              Passive
+          Hidden Pins : 
+
+Part : *C
+     Pins - (Normal) : 2
+          V-             4              Passive
+          V+             8              Passive
+          Hidden Pins : 
+
