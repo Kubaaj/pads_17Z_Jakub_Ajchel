@@ -40,7 +40,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Biblioteka_JA\Ajchel_Jakub_plytka.PcbDoc
+DocumentPath=Ajchel_Jakub_plytka.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -57,7 +57,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EKRPJKAF
 
 [Document2]
-DocumentPath=..\Biblioteka_JA\JAjchel_schemat.SchDoc
+DocumentPath=JAjchel_schemat.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,10 +71,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VAMYXIGQ
+DocumentUniqueId=WNIUKXFM
 
 [Document3]
-DocumentPath=AT long bus (13.3 x 4.5 inches).PCBDOC
+DocumentPath=JAjchel_schemat.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,10 +88,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IEMNQSXI
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=AT long bus (13.3 x 4.5 inches).schdoc
+DocumentPath=Ajchel_Jakub_plytka_wstepne_rozmieszczenie.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -105,7 +105,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HGHYNXHA
+DocumentUniqueId=GYFCECJU
 
 [Configuration1]
 Name=Default Configuration
