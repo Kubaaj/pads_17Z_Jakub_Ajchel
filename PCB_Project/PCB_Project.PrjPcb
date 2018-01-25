@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Copy of Ajchel_Jakub_plytka_wstepne_rozmieszczenie_gnd.PcbDoc
+DocumentPath=Ajchel_Jakub_plytka_gnd.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -90,10 +90,18 @@ GenerateClassCluster=0
 DocumentUniqueId=FYBERDXO
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project\Design Rule Check - Ajchel_Jakub_plytka_wstepne_rozmieszczenie_gnd.html
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - Ajchel_Jakub_plytka_gnd.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - Ajchel_Jakub_plytka_gnd_2501.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - Ajchel_Jakub_plytka_wstepne_rozmieszczenie_gnd.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for PCB_Project\Design Rule Check - Copy of Ajchel_Jakub_plytka_wstepne_rozmieszczenie_gnd.html
 DItemRevisionGUID=
 
@@ -216,7 +224,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HPDF91FD (HP Deskjet 2540 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
